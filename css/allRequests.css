@@ -27,26 +27,14 @@ div {
 div {
   -webkit-text-size-adjust: none;
 }
-.allrequests .group19 {
+.allrequests .moreinfo {
   background-color    : rgba(255,255,255,0.0);
-  top                 : -2px;
-  height              : 1181px;
-  width               : 793px;
-  position            : relative;
-  margin              : 0;
-  left                : -4px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.allrequests .group19 .moreinfo {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 350px;
+  top                 : 348px;
   height              : auto;
   width               : auto;
   position            : absolute;
   margin              : 0;
-  left                : 224px;
+  left                : 220px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -56,14 +44,14 @@ div {
   text-align          : left;
   line-height         : 24.0px;
 }
-.allrequests .group19 .moreinfo1 {
+.allrequests .moreinfo1 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 251px;
+  top                 : 249px;
   height              : auto;
   width               : auto;
   position            : absolute;
   margin              : 0;
-  left                : 224px;
+  left                : 220px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -73,19 +61,7 @@ div {
   text-align          : left;
   line-height         : 24.0px;
 }
-.allrequests .group19 .group {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 2px;
-  height              : 576px;
-  width               : 338px;
-  position            : absolute;
-  margin              : 0;
-  left                : 4px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.allrequests .group19 .group .group7 {
+.allrequests .group {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 576px;
@@ -97,7 +73,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.allrequests .group19 .group .group7 .group2 {
+.allrequests .group .group7 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 576px;
@@ -109,7 +85,19 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.allrequests .group19 .group .group7 .group2 .rectangle {
+.allrequests .group .group7 .group2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 576px;
+  width               : 338px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.allrequests .group .group7 .group2 .rectangle {
   background-color    : rgba(255, 255, 255, 1.0);
   top                 : 0px;
   height              : 576px;
@@ -126,7 +114,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.allrequests .group19 .group .group7 .group2 .combinedshape2 {
+.allrequests .group .group7 .group2 .combinedshape2 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 45px;
@@ -138,7 +126,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.allrequests .group19 .group .group7 .logo {
+.allrequests .group .group7 .logo {
   background-color    : rgba(255,255,255,0.0);
   top                 : 10px;
   height              : 25px;
@@ -150,7 +138,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.allrequests .group19 .group .group7 .logo .xmlid1 {
+.allrequests .group .group7 .logo .xmlid1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 25px;
@@ -162,7 +150,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.allrequests .group19 .group .group7 .logo .xmlid1 .xmlid2 {
+.allrequests .group .group7 .logo .xmlid1 .xmlid2 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 25px;
@@ -174,7 +162,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.allrequests .group19 .group .group7 .logo .xmlid1 .xmlid4 {
+.allrequests .group .group7 .logo .xmlid1 .xmlid4 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 7px;
   height              : 18px;
@@ -186,7 +174,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.allrequests .group19 .group .group7 .logo .xmlid1 .xmlid7 {
+.allrequests .group .group7 .logo .xmlid1 .xmlid7 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 7px;
   height              : 18px;
@@ -198,7 +186,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.allrequests .group19 .group .group7 .logo .xmlid1 .xmlid9 {
+.allrequests .group .group7 .logo .xmlid1 .xmlid9 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 7px;
   height              : 18px;
@@ -210,7 +198,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.allrequests .group19 .group .group7 .logo .xmlid1 .xmlid11 {
+.allrequests .group .group7 .logo .xmlid1 .xmlid11 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 7px;
   height              : 18px;
@@ -222,7 +210,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.allrequests .group19 .group .group7 .logo .xmlid1 .xmlid14 {
+.allrequests .group .group7 .logo .xmlid1 .xmlid14 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 7px;
   height              : 18px;
@@ -234,7 +222,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.allrequests .group19 .group .group7 .logo .xmlid1 .xmlid16 {
+.allrequests .group .group7 .logo .xmlid1 .xmlid16 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 3px;
   height              : 22px;
@@ -246,7 +234,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.allrequests .group19 .group .group7 .logo .xmlid1 .xmlid18 {
+.allrequests .group .group7 .logo .xmlid1 .xmlid18 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 24px;
@@ -258,7 +246,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.allrequests .group19 .group .group7 .logo .xmlid1 .xmlid21 {
+.allrequests .group .group7 .logo .xmlid1 .xmlid21 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 24px;
@@ -270,7 +258,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.allrequests .group19 .group .group7 .logo .xmlid1 .xmlid23 {
+.allrequests .group .group7 .logo .xmlid1 .xmlid23 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 24px;
@@ -282,7 +270,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.allrequests .group19 .group .group7 .logo .xmlid1 .xmlid26 {
+.allrequests .group .group7 .logo .xmlid1 .xmlid26 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 7px;
   height              : 18px;
@@ -294,7 +282,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.allrequests .group19 .group .group7 .logo .xmlid1 .xmlid29 {
+.allrequests .group .group7 .logo .xmlid1 .xmlid29 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 7px;
   height              : 18px;
@@ -306,7 +294,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.allrequests .group19 .group .group7 .logo .xmlid124 {
+.allrequests .group .group7 .logo .xmlid124 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 21px;
@@ -318,7 +306,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.allrequests .group19 .group .combinedshape {
+.allrequests .group .combinedshape {
   background-color    : rgba(255,255,255,0.0);
   top                 : 11px;
   height              : 24px;
@@ -330,7 +318,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.allrequests .group19 .group .combinedshape1 {
+.allrequests .group .combinedshape1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 11px;
   height              : 24px;
@@ -342,7 +330,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.allrequests .group19 .group .back {
+.allrequests .group .back {
   background-color    : rgba(255,255,255,0.0);
   top                 : 10px;
   height              : 26px;
@@ -354,23 +342,23 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.allrequests .group19 .group14 {
+.allrequests .group14 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 220px;
+  top                 : 218px;
   height              : 79px;
-  width               : 287px;
+  width               : 293px;
   position            : absolute;
   margin              : 0;
-  left                : 25px;
+  left                : 21px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.allrequests .group19 .group14 .group8 {
+.allrequests .group14 .group8 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 58px;
-  width               : 276px;
+  width               : 293px;
   position            : absolute;
   margin              : 0;
   left                : 0px;
@@ -378,7 +366,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.allrequests .group19 .group14 .group8 .twitter {
+.allrequests .group14 .group8 .twitter {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : auto;
@@ -395,7 +383,7 @@ div {
   text-align          : left;
   line-height         : 30.0px;
 }
-.allrequests .group19 .group14 .group8 .youagreedtothis {
+.allrequests .group14 .group8 .youagreedtothis {
   background-color    : rgba(255,255,255,0.0);
   top                 : 34px;
   height              : auto;
@@ -412,11 +400,11 @@ div {
   text-align          : left;
   line-height         : 24.0px;
 }
-.allrequests .group19 .group14 .group8 .a1dago {
+.allrequests .group14 .group8 .a1dago {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : auto;
-  width               : auto;
+  width               : 80px;
   position            : absolute;
   margin              : 0;
   left                : 213px;
@@ -429,7 +417,7 @@ div {
   text-align          : left;
   line-height         : 24.0px;
 }
-.allrequests .group19 .group14 .group8 .twitterbrands {
+.allrequests .group14 .group8 .twitterbrands {
   background-color    : rgba(255,255,255,0.0);
   top                 : 4px;
   height              : 53px;
@@ -441,7 +429,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.allrequests .group19 .group14 .group8 .twitterbrands .path {
+.allrequests .group14 .group8 .twitterbrands .path {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 53px;
@@ -453,7 +441,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.allrequests .group19 .group14 .moreinfo2 {
+.allrequests .group14 .moreinfo2 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 60px;
   height              : auto;
@@ -470,14 +458,14 @@ div {
   text-align          : left;
   line-height         : 19.0px;
 }
-.allrequests .group19 .typesomething {
+.allrequests .typesomething {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 607px;
+  top                 : 605px;
   height              : auto;
   width               : 341px;
   position            : absolute;
   margin              : 0;
-  left                : 458px;
+  left                : 454px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -487,23 +475,23 @@ div {
   text-align          : left;
   line-height         : 30.0px;
 }
-.allrequests .group19 .group3 {
+.allrequests .group3 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 130px;
+  top                 : 128px;
   height              : 79px;
-  width               : 284px;
+  width               : 295px;
   position            : absolute;
   margin              : 0;
-  left                : 28px;
+  left                : 24px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.allrequests .group19 .group3 .group141 {
+.allrequests .group3 .group141 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 79px;
-  width               : 211px;
+  width               : 222px;
   position            : absolute;
   margin              : 0;
   left                : 73px;
@@ -511,11 +499,11 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.allrequests .group19 .group3 .group141 .group8 {
+.allrequests .group3 .group141 .group8 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 58px;
-  width               : 211px;
+  width               : 222px;
   position            : absolute;
   margin              : 0;
   left                : 0px;
@@ -523,7 +511,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.allrequests .group19 .group3 .group141 .group8 .a500px {
+.allrequests .group3 .group141 .group8 .a500px {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : auto;
@@ -540,7 +528,7 @@ div {
   text-align          : left;
   line-height         : 30.0px;
 }
-.allrequests .group19 .group3 .group141 .group8 .youagreedtothis {
+.allrequests .group3 .group141 .group8 .youagreedtothis {
   background-color    : rgba(255,255,255,0.0);
   top                 : 34px;
   height              : auto;
@@ -557,11 +545,11 @@ div {
   text-align          : left;
   line-height         : 24.0px;
 }
-.allrequests .group19 .group3 .group141 .group8 .a22hago {
+.allrequests .group3 .group141 .group8 .a22hago {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : auto;
-  width               : auto;
+  width               : 85px;
   position            : absolute;
   margin              : 0;
   left                : 137px;
@@ -574,7 +562,7 @@ div {
   text-align          : left;
   line-height         : 24.0px;
 }
-.allrequests .group19 .group3 .group141 .moreinfo2 {
+.allrequests .group3 .group141 .moreinfo2 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 60px;
   height              : auto;
@@ -591,7 +579,7 @@ div {
   text-align          : left;
   line-height         : 19.0px;
 }
-.allrequests .group19 .group3 .a500pxbrands {
+.allrequests .group3 .a500pxbrands {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 59px;
@@ -603,7 +591,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.allrequests .group19 .group3 .a500pxbrands .shape {
+.allrequests .group3 .a500pxbrands .shape {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 59px;
@@ -615,19 +603,19 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.allrequests .group19 .group15 {
+.allrequests .group15 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 310px;
+  top                 : 308px;
   height              : 79px;
   width               : 210px;
   position            : absolute;
   margin              : 0;
-  left                : 101px;
+  left                : 97px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.allrequests .group19 .group15 .group10 {
+.allrequests .group15 .group10 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 58px;
@@ -639,7 +627,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.allrequests .group19 .group15 .group10 .group8 {
+.allrequests .group15 .group10 .group8 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 58px;
@@ -651,7 +639,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.allrequests .group19 .group15 .group10 .group8 .facebook {
+.allrequests .group15 .group10 .group8 .facebook {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : auto;
@@ -668,7 +656,7 @@ div {
   text-align          : left;
   line-height         : 30.0px;
 }
-.allrequests .group19 .group15 .group10 .group8 .youdidntagreedto {
+.allrequests .group15 .group10 .group8 .youdidntagreedto {
   background-color    : rgba(255,255,255,0.0);
   top                 : 34px;
   height              : auto;
@@ -685,11 +673,11 @@ div {
   text-align          : left;
   line-height         : 24.0px;
 }
-.allrequests .group19 .group15 .group10 .group8 .a5dago {
+.allrequests .group15 .group10 .group8 .a5dago {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : auto;
-  width               : auto;
+  width               : 73px;
   position            : absolute;
   margin              : 0;
   left                : 137px;
@@ -702,7 +690,7 @@ div {
   text-align          : left;
   line-height         : 24.0px;
 }
-.allrequests .group19 .group15 .moreinfo2 {
+.allrequests .group15 .moreinfo2 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 60px;
   height              : auto;
@@ -719,23 +707,23 @@ div {
   text-align          : left;
   line-height         : 19.0px;
 }
-.allrequests .group19 .group16 {
+.allrequests .group16 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 400px;
+  top                 : 398px;
   height              : 79px;
-  width               : 206px;
+  width               : 211px;
   position            : absolute;
   margin              : 0;
-  left                : 101px;
+  left                : 97px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.allrequests .group19 .group16 .group9 {
+.allrequests .group16 .group9 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 58px;
-  width               : 200px;
+  width               : 211px;
   position            : absolute;
   margin              : 0;
   left                : 0px;
@@ -743,11 +731,11 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.allrequests .group19 .group16 .group9 .group8 {
+.allrequests .group16 .group9 .group8 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 58px;
-  width               : 200px;
+  width               : 211px;
   position            : relative;
   margin              : 0;
   left                : 0px;
@@ -755,7 +743,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.allrequests .group19 .group16 .group9 .group8 .tumblr {
+.allrequests .group16 .group9 .group8 .tumblr {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : auto;
@@ -772,7 +760,7 @@ div {
   text-align          : left;
   line-height         : 30.0px;
 }
-.allrequests .group19 .group16 .group9 .group8 .youagreedtothis {
+.allrequests .group16 .group9 .group8 .youagreedtothis {
   background-color    : rgba(255,255,255,0.0);
   top                 : 34px;
   height              : auto;
@@ -789,11 +777,11 @@ div {
   text-align          : left;
   line-height         : 24.0px;
 }
-.allrequests .group19 .group16 .group9 .group8 .a6dago {
+.allrequests .group16 .group9 .group8 .a6dago {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : auto;
-  width               : auto;
+  width               : 74px;
   position            : absolute;
   margin              : 0;
   left                : 137px;
@@ -806,7 +794,7 @@ div {
   text-align          : left;
   line-height         : 24.0px;
 }
-.allrequests .group19 .group16 .moreinfo2 {
+.allrequests .group16 .moreinfo2 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 60px;
   height              : auto;
@@ -823,23 +811,23 @@ div {
   text-align          : left;
   line-height         : 19.0px;
 }
-.allrequests .group19 .group161 {
+.allrequests .group161 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 490px;
+  top                 : 488px;
   height              : 79px;
-  width               : 283px;
+  width               : 288px;
   position            : absolute;
   margin              : 0;
-  left                : 28px;
+  left                : 24px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.allrequests .group19 .group161 .group9 {
+.allrequests .group161 .group9 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 58px;
-  width               : 283px;
+  width               : 288px;
   position            : absolute;
   margin              : 0;
   left                : 0px;
@@ -847,11 +835,11 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.allrequests .group19 .group161 .group9 .group8 {
+.allrequests .group161 .group9 .group8 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 58px;
-  width               : 210px;
+  width               : 215px;
   position            : absolute;
   margin              : 0;
   left                : 73px;
@@ -859,7 +847,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.allrequests .group19 .group161 .group9 .group8 .google {
+.allrequests .group161 .group9 .group8 .google {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : auto;
@@ -876,7 +864,7 @@ div {
   text-align          : left;
   line-height         : 30.0px;
 }
-.allrequests .group19 .group161 .group9 .group8 .youdidntagreedto {
+.allrequests .group161 .group9 .group8 .youdidntagreedto {
   background-color    : rgba(255,255,255,0.0);
   top                 : 34px;
   height              : auto;
@@ -893,11 +881,11 @@ div {
   text-align          : left;
   line-height         : 24.0px;
 }
-.allrequests .group19 .group161 .group9 .group8 .a1wago {
+.allrequests .group161 .group9 .group8 .a1wago {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : auto;
-  width               : auto;
+  width               : 78px;
   position            : absolute;
   margin              : 0;
   left                : 137px;
@@ -910,7 +898,7 @@ div {
   text-align          : left;
   line-height         : 24.0px;
 }
-.allrequests .group19 .group161 .group9 .googlebrands {
+.allrequests .group161 .group9 .googlebrands {
   background-color    : rgba(255,255,255,0.0);
   top                 : 3px;
   height              : 53px;
@@ -922,7 +910,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.allrequests .group19 .group161 .group9 .googlebrands .path {
+.allrequests .group161 .group9 .googlebrands .path {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 53px;
@@ -934,7 +922,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.allrequests .group19 .group161 .moreinfo2 {
+.allrequests .group161 .moreinfo2 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 60px;
   height              : auto;
@@ -951,14 +939,14 @@ div {
   text-align          : left;
   line-height         : 19.0px;
 }
-.allrequests .group19 .theseareallthere {
+.allrequests .theseareallthere {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 62px;
+  top                 : 60px;
   height              : auto;
   width               : 306px;
   position            : absolute;
   margin              : 0;
-  left                : 25px;
+  left                : 21px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -968,19 +956,19 @@ div {
   text-align          : justify;
   line-height         : 30.0px;
 }
-.allrequests .group19 .facebookfbrands {
+.allrequests .facebookfbrands {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 306px;
+  top                 : 304px;
   height              : 63px;
   width               : 33px;
   position            : absolute;
   margin              : 0;
-  left                : 33px;
+  left                : 29px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.allrequests .group19 .facebookfbrands .path {
+.allrequests .facebookfbrands .path {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 63px;
@@ -992,19 +980,19 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.allrequests .group19 .tumblrbrands {
+.allrequests .tumblrbrands {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 400px;
+  top                 : 398px;
   height              : 59px;
   width               : 35px;
   position            : absolute;
   margin              : 0;
-  left                : 33px;
+  left                : 29px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.allrequests .group19 .tumblrbrands .path {
+.allrequests .tumblrbrands .path {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 59px;
