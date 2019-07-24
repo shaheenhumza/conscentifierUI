@@ -332,14 +332,14 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.delegate .group19 .group5 .allrequests {
+.delegate .group19 .group5 .history {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 11px;
+  top                 : 10px;
   height              : auto;
-  width               : 107px;
+  width               : 69px;
   position            : absolute;
   margin              : 0;
-  left                : 40px;
+  left                : 59px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -390,19 +390,31 @@ div {
   text-align          : left;
   line-height         : 14.0px;
 }
-.delegate .group19 .group3 {
+.delegate .group19 .twitterbrands {
   background-color    : rgba(255,255,255,0.0);
   top                 : 166px;
   height              : 79px;
-  width               : 292px;
+  width               : 293px;
   position            : absolute;
   margin              : 0;
-  left                : 21px;
+  left                : 25px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.delegate .group19 .group3 .twitterbrands {
+.delegate .group19 .twitterbrands .group22 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 79px;
+  width               : 293px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.delegate .group19 .twitterbrands .group22 .path {
   background-color    : rgba(255,255,255,0.0);
   top                 : 8px;
   height              : 53px;
@@ -414,23 +426,11 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.delegate .group19 .group3 .twitterbrands .path {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 53px;
-  width               : 65px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.delegate .group19 .group3 .group17 {
+.delegate .group19 .twitterbrands .group22 .group17 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 79px;
-  width               : 265px;
+  width               : 266px;
   position            : absolute;
   margin              : 0;
   left                : 26px;
@@ -438,11 +438,11 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.delegate .group19 .group3 .group17 .group15 {
+.delegate .group19 .twitterbrands .group22 .group17 .group15 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 79px;
-  width               : 217px;
+  width               : 218px;
   position            : absolute;
   margin              : 0;
   left                : 49px;
@@ -450,11 +450,11 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.delegate .group19 .group3 .group17 .group15 .group10 {
+.delegate .group19 .twitterbrands .group22 .group17 .group15 .group10 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 58px;
-  width               : 217px;
+  width               : 218px;
   position            : absolute;
   margin              : 0;
   left                : 0px;
@@ -462,11 +462,11 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.delegate .group19 .group3 .group17 .group15 .group10 .group8 {
+.delegate .group19 .twitterbrands .group22 .group17 .group15 .group10 .group8 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 58px;
-  width               : 217px;
+  width               : 218px;
   position            : relative;
   margin              : 0;
   left                : 0px;
@@ -474,7 +474,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.delegate .group19 .group3 .group17 .group15 .group10 .group8 .reddit {
+.delegate .group19 .twitterbrands .group22 .group17 .group15 .group10 .group8 .twitter {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : auto;
@@ -491,7 +491,7 @@ div {
   text-align          : left;
   line-height         : 30.0px;
 }
-.delegate .group19 .group3 .group17 .group15 .group10 .group8 .johnresponded {
+.delegate .group19 .twitterbrands .group22 .group17 .group15 .group10 .group8 .johnmaryresponded {
   background-color    : rgba(255,255,255,0.0);
   top                 : 34px;
   height              : auto;
@@ -508,11 +508,11 @@ div {
   text-align          : left;
   line-height         : 24.0px;
 }
-.delegate .group19 .group3 .group17 .group15 .group10 .group8 .a22hago {
+.delegate .group19 .twitterbrands .group22 .group17 .group15 .group10 .group8 .a22hago {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : auto;
-  width               : 80px;
+  width               : 81px;
   position            : absolute;
   margin              : 0;
   left                : 137px;
@@ -525,7 +525,7 @@ div {
   text-align          : left;
   line-height         : 24.0px;
 }
-.delegate .group19 .group3 .group17 .group15 .moreinfo {
+.delegate .group19 .twitterbrands .group22 .group17 .group15 .moreinfo {
   background-color    : rgba(255,255,255,0.0);
   top                 : 60px;
   height              : auto;
@@ -542,7 +542,24 @@ div {
   text-align          : left;
   line-height         : 19.0px;
 }
-.delegate .group19 .group3 .group17 .group6 {
+.delegate .group19 .twitterbrands .group22 .group17 .group15 .moreinfo1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 60px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 139px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(107, 107, 107, 1.0);
+  text-align          : left;
+  line-height         : 19.0px;
+}
+.delegate .group19 .twitterbrands .group22 .group17 .group6 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 28px;
   height              : 36px;
@@ -554,7 +571,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.delegate .group19 .group3 .group17 .group6 .oval {
+.delegate .group19 .twitterbrands .group22 .group17 .group6 .oval {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 36px;
@@ -566,7 +583,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.delegate .group19 .group3 .group17 .group6 .a2 {
+.delegate .group19 .twitterbrands .group22 .group17 .group6 .a2 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 6px;
   height              : auto;
@@ -585,12 +602,12 @@ div {
 }
 .delegate .group19 .group16 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 273px;
+  top                 : 263px;
   height              : 79px;
-  width               : 280px;
+  width               : 279px;
   position            : absolute;
   margin              : 0;
-  left                : 25px;
+  left                : 29px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -599,7 +616,7 @@ div {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 58px;
-  width               : 280px;
+  width               : 279px;
   position            : absolute;
   margin              : 0;
   left                : 0px;
@@ -611,7 +628,7 @@ div {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 58px;
-  width               : 207px;
+  width               : 206px;
   position            : absolute;
   margin              : 0;
   left                : 73px;
@@ -657,7 +674,7 @@ div {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : auto;
-  width               : 70px;
+  width               : 69px;
   position            : absolute;
   margin              : 0;
   left                : 137px;
@@ -711,22 +728,28 @@ div {
   text-align          : left;
   line-height         : 19.0px;
 }
-.delegate .group19 .youveaskedfriends {
+.delegate .group19 .youveaskedyourfr {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 62px;
+  top                 : 59px;
   height              : auto;
-  width               : 306px;
+  width               : 308px;
   position            : absolute;
   margin              : 0;
-  left                : 25px;
+  left                : 20px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
   font-family         : "Helvetica", Helvetica, Arial, serif;
-  font-size           : 25.0px;
+  font-size           : 20.0px;
   color               : rgba(3, 3, 3, 1.0);
   text-align          : justify;
-  line-height         : 30.0px;
+  line-height         : 24.0px;
+}
+.delegate .group19 .youveaskedyourfr .span1 {
+  
+}
+.delegate .group19 .youveaskedyourfr .span2 {
+  
 }
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {

@@ -465,7 +465,7 @@ div {
 }
 .a500px .group20 .youaskedyourfrien {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 62px;
+  top                 : 67px;
   height              : auto;
   width               : 306px;
   position            : absolute;
@@ -475,10 +475,10 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
   font-family         : "Helvetica", Helvetica, Arial, serif;
-  font-size           : 25.0px;
+  font-size           : 20.0px;
   color               : rgba(3, 3, 3, 1.0);
   text-align          : left;
-  line-height         : 30.0px;
+  line-height         : 24.0px;
 }
 .a500px .group20 .yousignedupforth {
   background-color    : rgba(255,255,255,0.0);

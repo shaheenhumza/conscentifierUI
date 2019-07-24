@@ -1,10 +1,10 @@
 
 
-.twitter {
+.newrequestnote {
   width               : 100%;
   min-width           : 338px;
   height              : 100vh;
-  min-height          : 576px;
+  min-height          : 577px;
   position            : relative;
   overflow            : hidden;
   margin              : 0px;
@@ -27,7 +27,7 @@ div {
 div {
   -webkit-text-size-adjust: none;
 }
-.twitter .group20 {
+.newrequestnote .group3 {
   background-color    : rgba(255,255,255,0.0);
   top                 : -2px;
   height              : 584px;
@@ -39,7 +39,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.twitter .group20 .group {
+.newrequestnote .group3 .group {
   background-color    : rgba(255,255,255,0.0);
   top                 : 2px;
   height              : 576px;
@@ -51,7 +51,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.twitter .group20 .group .group7 {
+.newrequestnote .group3 .group .group7 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 576px;
@@ -63,7 +63,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.twitter .group20 .group .group7 .group2 {
+.newrequestnote .group3 .group .group7 .group2 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 576px;
@@ -75,7 +75,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.twitter .group20 .group .group7 .group2 .rectangle {
+.newrequestnote .group3 .group .group7 .group2 .rectangle {
   background-color    : rgba(255, 255, 255, 1.0);
   top                 : 0px;
   height              : 576px;
@@ -92,7 +92,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.twitter .group20 .group .group7 .group2 .combinedshape1 {
+.newrequestnote .group3 .group .group7 .group2 .combinedshape2 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 45px;
@@ -104,7 +104,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.twitter .group20 .group .group7 .logo {
+.newrequestnote .group3 .group .group7 .logo {
   background-color    : rgba(255,255,255,0.0);
   top                 : 10px;
   height              : 25px;
@@ -116,7 +116,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.twitter .group20 .group .group7 .logo .xmlid1 {
+.newrequestnote .group3 .group .group7 .logo .xmlid1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 25px;
@@ -128,7 +128,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.twitter .group20 .group .group7 .logo .xmlid1 .xmlid2 {
+.newrequestnote .group3 .group .group7 .logo .xmlid1 .xmlid2 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 25px;
@@ -140,7 +140,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.twitter .group20 .group .group7 .logo .xmlid1 .xmlid4 {
+.newrequestnote .group3 .group .group7 .logo .xmlid1 .xmlid4 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 7px;
   height              : 18px;
@@ -152,7 +152,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.twitter .group20 .group .group7 .logo .xmlid1 .xmlid7 {
+.newrequestnote .group3 .group .group7 .logo .xmlid1 .xmlid7 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 7px;
   height              : 18px;
@@ -164,7 +164,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.twitter .group20 .group .group7 .logo .xmlid1 .xmlid9 {
+.newrequestnote .group3 .group .group7 .logo .xmlid1 .xmlid9 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 7px;
   height              : 18px;
@@ -176,7 +176,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.twitter .group20 .group .group7 .logo .xmlid1 .xmlid11 {
+.newrequestnote .group3 .group .group7 .logo .xmlid1 .xmlid11 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 7px;
   height              : 18px;
@@ -188,7 +188,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.twitter .group20 .group .group7 .logo .xmlid1 .xmlid14 {
+.newrequestnote .group3 .group .group7 .logo .xmlid1 .xmlid14 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 7px;
   height              : 18px;
@@ -200,7 +200,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.twitter .group20 .group .group7 .logo .xmlid1 .xmlid16 {
+.newrequestnote .group3 .group .group7 .logo .xmlid1 .xmlid16 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 3px;
   height              : 22px;
@@ -212,7 +212,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.twitter .group20 .group .group7 .logo .xmlid1 .xmlid18 {
+.newrequestnote .group3 .group .group7 .logo .xmlid1 .xmlid18 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 24px;
@@ -224,7 +224,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.twitter .group20 .group .group7 .logo .xmlid1 .xmlid21 {
+.newrequestnote .group3 .group .group7 .logo .xmlid1 .xmlid21 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 24px;
@@ -236,7 +236,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.twitter .group20 .group .group7 .logo .xmlid1 .xmlid23 {
+.newrequestnote .group3 .group .group7 .logo .xmlid1 .xmlid23 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 24px;
@@ -248,7 +248,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.twitter .group20 .group .group7 .logo .xmlid1 .xmlid26 {
+.newrequestnote .group3 .group .group7 .logo .xmlid1 .xmlid26 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 7px;
   height              : 18px;
@@ -260,7 +260,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.twitter .group20 .group .group7 .logo .xmlid1 .xmlid29 {
+.newrequestnote .group3 .group .group7 .logo .xmlid1 .xmlid29 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 7px;
   height              : 18px;
@@ -272,7 +272,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.twitter .group20 .group .group7 .logo .xmlid124 {
+.newrequestnote .group3 .group .group7 .logo .xmlid124 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 21px;
@@ -284,7 +284,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.twitter .group20 .group .combinedshape {
+.newrequestnote .group3 .group .combinedshape {
   background-color    : rgba(255,255,255,0.0);
   top                 : 11px;
   height              : 24px;
@@ -296,7 +296,19 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.twitter .group20 .group .back {
+.newrequestnote .group3 .group .combinedshape1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11px;
+  height              : 24px;
+  width               : 22px;
+  position            : absolute;
+  margin              : 0;
+  left                : 302px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.newrequestnote .group3 .group .back {
   background-color    : rgba(255,255,255,0.0);
   top                 : 10px;
   height              : 26px;
@@ -308,195 +320,204 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.twitter .group20 .group11 {
+.newrequestnote .group3 .group14 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 147px;
-  height              : 66px;
-  width               : 257px;
+  top                 : 254px;
+  height              : 145px;
+  width               : 300px;
   position            : absolute;
   margin              : 0;
-  left                : 35px;
+  left                : 21px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.twitter .group20 .group11 .group13 {
+.newrequestnote .group3 .group14 .inputbackground {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
-  height              : 66px;
-  width               : 257px;
-  position            : relative;
+  height              : 145px;
+  width               : 300px;
+  position            : absolute;
   margin              : 0;
   left                : 0px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.twitter .group20 .group11 .group13 .j {
+.newrequestnote .group3 .group14 .optionalnote {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 15px;
+  height              : auto;
+  width               : 280px;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.newrequestnote .group3 .group5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 465px;
+  height              : 42px;
+  width               : 216px;
+  position            : absolute;
+  margin              : 0;
+  left                : 66px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.newrequestnote .group3 .group5 .buttonbackground {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
-  height              : auto;
-  width               : auto;
+  height              : 42px;
+  width               : 216px;
   position            : absolute;
   margin              : 0;
-  left                : -1px;
+  left                : 0px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
-  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
-  font-size           : 55.0px;
-  color               : rgba(0, 0, 0, 1.0);
-  text-align          : center;
-  line-height         : 66.0px;
 }
-.twitter .group20 .group11 .group13 .johnsaidyes {
+.newrequestnote .group3 .group5 .sendandcreatenew {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 9px;
+  top                 : 10px;
   height              : auto;
-  width               : auto;
+  width               : 193px;
   position            : absolute;
   margin              : 0;
-  left                : 48px;
+  left                : 12px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
   font-family         : "Helvetica", Helvetica, Arial, serif;
-  font-size           : 25.0px;
-  color               : rgba(3, 3, 3, 1.0);
-  text-align          : left;
-  line-height         : 30.0px;
-}
-.twitter .group20 .group11 .group13 .respondedon2june {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 42px;
-  height              : auto;
-  width               : 208px;
-  position            : absolute;
-  margin              : 0;
-  left                : 49px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Helvetica", Helvetica, Arial, serif;
-  font-size           : 15.0px;
+  font-size           : 20.0px;
   color               : rgba(0, 0, 0, 1.0);
   text-align          : left;
-  line-height         : 18.0px;
+  line-height         : 14.0px;
 }
-.twitter .group20 .askedon2ndjuneat {
+.newrequestnote .group3 .group51 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 548px;
-  height              : auto;
-  width               : 188px;
+  top                 : 523px;
+  height              : 42px;
+  width               : 216px;
   position            : absolute;
   margin              : 0;
-  left                : 86px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Helvetica", Helvetica, Arial, serif;
-  font-size           : 15.0px;
-  color               : rgba(0, 0, 0, 1.0);
-  text-align          : left;
-  line-height         : 18.0px;
-}
-.twitter .group20 .group12 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 224px;
-  height              : 66px;
-  width               : 265px;
-  position            : absolute;
-  margin              : 0;
-  left                : 27px;
+  left                : 66px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.twitter .group20 .group12 .m {
+.newrequestnote .group3 .group51 .buttonbackground {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
-  height              : auto;
-  width               : auto;
+  height              : 42px;
+  width               : 216px;
   position            : absolute;
   margin              : 0;
-  left                : -1px;
+  left                : 0px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
-  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
-  font-size           : 55.0px;
-  color               : rgba(0, 0, 0, 1.0);
-  text-align          : center;
-  line-height         : 66.0px;
 }
-.twitter .group20 .group12 .marysaidyes {
+.newrequestnote .group3 .group51 .sendrequest {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 9px;
+  top                 : 15px;
   height              : auto;
-  width               : auto;
+  width               : 124px;
   position            : absolute;
   margin              : 0;
-  left                : 56px;
+  left                : 47px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
   font-family         : "Helvetica", Helvetica, Arial, serif;
-  font-size           : 25.0px;
-  color               : rgba(3, 3, 3, 1.0);
+  font-size           : 20.0px;
+  color               : rgba(0, 0, 0, 1.0);
   text-align          : left;
-  line-height         : 30.0px;
+  line-height         : 14.0px;
 }
-.twitter .group20 .group12 .respondedon2june {
+.newrequestnote .group3 .group141 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 42px;
-  height              : auto;
-  width               : 208px;
+  top                 : 196px;
+  height              : 36px;
+  width               : 300px;
   position            : absolute;
   margin              : 0;
-  left                : 57px;
+  left                : 21px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
-  font-family         : "Helvetica", Helvetica, Arial, serif;
-  font-size           : 15.0px;
-  color               : rgba(0, 0, 0, 1.0);
-  text-align          : left;
-  line-height         : 18.0px;
 }
-.twitter .group20 .youaskedyourfrien {
+.newrequestnote .group3 .group141 .inputbackground {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 34px;
+  width               : 300px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.newrequestnote .group3 .group141 .email {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 280px;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.newrequestnote .group3 .emailsomeonetohel {
   background-color    : rgba(255,255,255,0.0);
   top                 : 67px;
   height              : auto;
-  width               : 306px;
+  width               : 302px;
   position            : absolute;
   margin              : 0;
-  left                : 27px;
+  left                : 23px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
   font-family         : "Helvetica", Helvetica, Arial, serif;
   font-size           : 20.0px;
   color               : rgba(3, 3, 3, 1.0);
-  text-align          : left;
+  text-align          : justify;
   line-height         : 24.0px;
 }
-.twitter .group20 .group5 {
+.newrequestnote .group3 .group19 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 451px;
-  height              : 42px;
-  width               : 184px;
+  top                 : 135px;
+  height              : 38px;
+  width               : 300px;
   position            : absolute;
   margin              : 0;
-  left                : 72px;
+  left                : 21px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.twitter .group20 .group5 .buttonbackground {
+.newrequestnote .group3 .group19 .inputbackground {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
-  height              : 42px;
-  width               : 184px;
+  height              : 38px;
+  width               : 300px;
   position            : absolute;
   margin              : 0;
   left                : 0px;
@@ -504,63 +525,22 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.twitter .group20 .group5 .iwonu2019tsignup {
+.newrequestnote .group3 .group19 .name {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 16px;
+  top                 : 11px;
   height              : auto;
-  width               : 134px;
+  width               : 280px;
   position            : absolute;
   margin              : 0;
-  left                : 26px;
+  left                : 11px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
-  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
   font-size           : 20.0px;
-  color               : rgba(0, 0, 0, 1.0);
+  color               : rgba(74, 73, 74, 1.0);
   text-align          : left;
-  line-height         : 14.0px;
-}
-.twitter .group20 .group51 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 399px;
-  height              : 42px;
-  width               : 184px;
-  position            : absolute;
-  margin              : 0;
-  left                : 72px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.twitter .group20 .group51 .buttonbackground {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 42px;
-  width               : 184px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.twitter .group20 .group51 .iwillsignup {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 13px;
-  height              : auto;
-  width               : 123px;
-  position            : absolute;
-  margin              : 0;
-  left                : 32px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Helvetica", Helvetica, Arial, serif;
-  font-size           : 20.0px;
-  color               : rgba(0, 0, 0, 1.0);
-  text-align          : left;
-  line-height         : 14.0px;
+  line-height         : 20.0px;
 }
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {
